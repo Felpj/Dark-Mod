@@ -9,5 +9,4 @@
 
 ### Meta
 
-+ 
  💡 I intend to add this function to sites, and apply the version of the site with the black theme and with the white theme, but as I am at the beginning it takes time
